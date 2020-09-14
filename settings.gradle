@@ -1,0 +1,4 @@
+include ':api'
+include ':app2'
+include ':app'
+rootProject.name = "TestEvotor"
